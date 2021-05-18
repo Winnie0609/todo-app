@@ -3,7 +3,7 @@ A todo app built with React.
 
 ## Demo
 [Blog]()  
-[Live Demo](winnie0609.github.io/todo-app/)
+[Live Demo](https://winnie0609.github.io/todo-app/)
 
 ![](https://i.imgur.com/eYla12e.gif)
 
